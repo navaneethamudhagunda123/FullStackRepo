@@ -2,11 +2,11 @@ package com.nt.test;
 
 public class AAA {
 	
-	public int add(int a,int b) {
+	public double add(double a,double b) {
 		return a+b;
 	}
 	
-	public int sub(int a,int b) {
+	public double sub(double a,double b) {
 		return a-b;
 	}
 
